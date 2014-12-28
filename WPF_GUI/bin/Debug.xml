@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--Demonstration XML-->
+<CODEANALYSIS>
+  <ParentClass>
+    <ParentClass1>B</ParentClass1>
+    <Relationship>Aggregates</Relationship>
+    <ChildClass>B</ChildClass>
+  </ParentClass>
+</CODEANALYSIS>

@@ -1,0 +1,10 @@
+C:\Users\sony\Downloads\SMA4\WCF_Peer_Comm\Analyzer\bin\Debug\Analyzer.exe.config
+C:\Users\sony\Downloads\SMA4\WCF_Peer_Comm\Analyzer\bin\Debug\Analyzer.exe
+C:\Users\sony\Downloads\SMA4\WCF_Peer_Comm\Analyzer\bin\Debug\Analyzer.pdb
+C:\Users\sony\Downloads\SMA4\WCF_Peer_Comm\Analyzer\bin\Debug\FileMgr.exe
+C:\Users\sony\Downloads\SMA4\WCF_Peer_Comm\Analyzer\bin\Debug\Parser.exe
+C:\Users\sony\Downloads\SMA4\WCF_Peer_Comm\Analyzer\bin\Debug\FileMgr.pdb
+C:\Users\sony\Downloads\SMA4\WCF_Peer_Comm\Analyzer\bin\Debug\Parser.pdb
+C:\Users\sony\Downloads\SMA4\WCF_Peer_Comm\Analyzer\obj\Debug\Analyzer.csprojResolveAssemblyReference.cache
+C:\Users\sony\Downloads\SMA4\WCF_Peer_Comm\Analyzer\obj\Debug\Analyzer.exe
+C:\Users\sony\Downloads\SMA4\WCF_Peer_Comm\Analyzer\obj\Debug\Analyzer.pdb

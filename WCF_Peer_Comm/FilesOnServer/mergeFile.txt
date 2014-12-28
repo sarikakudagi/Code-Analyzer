@@ -1,0 +1,37 @@
+using mana;
+namespace sarika
+{
+    
+    class car: B
+    {
+        int a;
+    }
+	class auto : car
+	{
+    }
+	class mercedes
+	{
+	
+	}
+}
+
+
+
+
+using sarika;
+namespace mana
+{
+    
+    class A : car
+    {
+        int a;
+    }
+	class B 
+	{
+        B b = new B();
+    }
+}
+
+
+
+

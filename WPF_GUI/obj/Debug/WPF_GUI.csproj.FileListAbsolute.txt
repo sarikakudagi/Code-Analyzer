@@ -1,0 +1,140 @@
+C:\su\CSE681\code\WCF_Peer_Comm\WPF_GUI\bin\Debug\WPF_GUI.exe
+C:\su\CSE681\code\WCF_Peer_Comm\WPF_GUI\bin\Debug\WPF_GUI.pdb
+C:\su\CSE681\code\WCF_Peer_Comm\WPF_GUI\obj\Debug\ResolveAssemblyReference.cache
+C:\su\CSE681\code\WCF_Peer_Comm\WPF_GUI\obj\Debug\Window1.baml
+C:\su\CSE681\code\WCF_Peer_Comm\WPF_GUI\obj\Debug\Window1.g.cs
+C:\su\CSE681\code\WCF_Peer_Comm\WPF_GUI\obj\Debug\App.g.cs
+C:\su\CSE681\code\WCF_Peer_Comm\WPF_GUI\obj\Debug\WPF_GUI_MarkupCompile.cache
+C:\su\CSE681\code\WCF_Peer_Comm\WPF_GUI\obj\Debug\WPF_GUI.g.resources
+C:\su\CSE681\code\WCF_Peer_Comm\WPF_GUI\obj\Debug\WPF_GUI.Properties.Resources.resources
+C:\su\CSE681\code\WCF_Peer_Comm\WPF_GUI\obj\Debug\WPF_GUI.csproj.GenerateResource.Cache
+C:\su\CSE681\code\WCF_Peer_Comm\WPF_GUI\obj\Debug\WPF_GUI.exe
+C:\su\CSE681\code\WCF_Peer_Comm\WPF_GUI\obj\Debug\WPF_GUI.pdb
+C:\su\CSE681\code\WCF_Peer_Comm\WPF_GUI\bin\Debug\WCF_Peer_Comm.dll
+C:\su\CSE681\code\WCF_Peer_Comm\WPF_GUI\bin\Debug\WCF_Peer_Comm.pdb
+C:\su\CSE775\CODE\WCF_Fawcett_Examples\WCF_Peer_Comm\WPF_GUI\obj\Debug\WPF_GUI.exe
+C:\su\CSE775\CODE\WCF_Fawcett_Examples\WCF_Peer_Comm\WPF_GUI\obj\Debug\WPF_GUI.pdb
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\WCF_Peer_Comm\WPF_GUI\obj\Debug\WPF_GUI.exe
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\WCF_Peer_Comm\WPF_GUI\obj\Debug\WPF_GUI.pdb
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\WCF_Peer_Comm\WPF_GUI\bin\Debug\WPF_GUI.exe
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\WCF_Peer_Comm\WPF_GUI\bin\Debug\WPF_GUI.pdb
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\WCF_Peer_Comm\WPF_GUI\bin\Debug\WCF_Peer_Comm.dll
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\WCF_Peer_Comm\WPF_GUI\bin\Debug\WCF_Peer_Comm.pdb
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\WCF_Peer_Comm\WPF_GUI\obj\Debug\Window1.baml
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\WCF_Peer_Comm\WPF_GUI\obj\Debug\Window1.g.cs
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\WCF_Peer_Comm\WPF_GUI\obj\Debug\App.g.cs
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\WCF_Peer_Comm\WPF_GUI\obj\Debug\WPF_GUI_MarkupCompile.cache
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\WCF_Peer_Comm\WPF_GUI\obj\Debug\WPF_GUI.g.resources
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\WCF_Peer_Comm\WPF_GUI\obj\Debug\WPF_GUI.Properties.Resources.resources
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\WCF_Peer_Comm\WPF_GUI\bin\Debug\WPF_GUI.exe.config
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\WCF_Peer_Comm - New\WPF_GUI\bin\Debug\WPF_GUI.exe.config
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\WCF_Peer_Comm - New\WPF_GUI\obj\Debug\WPF_GUI.exe
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\WCF_Peer_Comm - New\WPF_GUI\obj\Debug\WPF_GUI.pdb
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\WCF_Peer_Comm - New\WPF_GUI\bin\Debug\WPF_GUI.exe
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\WCF_Peer_Comm - New\WPF_GUI\bin\Debug\WPF_GUI.pdb
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\WCF_Peer_Comm - New\WPF_GUI\bin\Debug\WCF_Peer_Comm.dll
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\WCF_Peer_Comm - New\WPF_GUI\bin\Debug\WCF_Peer_Comm.pdb
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\WCF_Peer_Comm - New\WPF_GUI\obj\Debug\ResolveAssemblyReference.cache
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\WCF_Peer_Comm - New\WPF_GUI\obj\Debug\Window1.baml
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\WCF_Peer_Comm - New\WPF_GUI\obj\Debug\Window1.g.cs
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\WCF_Peer_Comm - New\WPF_GUI\obj\Debug\App.g.cs
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\WCF_Peer_Comm - New\WPF_GUI\obj\Debug\WPF_GUI_MarkupCompile.cache
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\WCF_Peer_Comm - New\WPF_GUI\obj\Debug\WPF_GUI.g.resources
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\WCF_Peer_Comm - New\WPF_GUI\obj\Debug\WPF_GUI.Properties.Resources.resources
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\WCF_Peer_Comm - New\WPF_GUI\obj\Debug\GenerateResource.read.1.tlog
+C:\su\CoreTechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\WCF_Peer_Comm - New\WPF_GUI\obj\Debug\GenerateResource.write.1.tlog
+C:\SU\coretechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\WCF_Peer_Comm\WPF_GUI\obj\Debug\WPF_GUI.csprojResolveAssemblyReference.cache
+C:\SU\coretechnologies\SocketsAndRemoting\code\WCF_Fawcett_Examples\WCF_Peer_Comm\WPF_GUI\obj\Debug\WPF_GUI.csproj.GenerateResource.Cache
+G:\WCF_Peer_Comm\WPF_GUI\bin\Debug\WPF_GUI.exe.config
+G:\WCF_Peer_Comm\WPF_GUI\obj\Debug\WPF_GUI.exe
+G:\WCF_Peer_Comm\WPF_GUI\obj\Debug\WPF_GUI.pdb
+G:\WCF_Peer_Comm\WPF_GUI\bin\Debug\WPF_GUI.exe
+G:\WCF_Peer_Comm\WPF_GUI\bin\Debug\WPF_GUI.pdb
+G:\WCF_Peer_Comm\WPF_GUI\bin\Debug\Analyzer.exe
+G:\WCF_Peer_Comm\WPF_GUI\bin\Debug\Executable.exe
+G:\WCF_Peer_Comm\WPF_GUI\bin\Debug\Parser.exe
+G:\WCF_Peer_Comm\WPF_GUI\bin\Debug\WcfService1.dll
+G:\WCF_Peer_Comm\WPF_GUI\bin\Debug\WCF_Peer_Comm.dll
+G:\WCF_Peer_Comm\WPF_GUI\bin\Debug\WpfApplication1.exe
+G:\WCF_Peer_Comm\WPF_GUI\bin\Debug\WPF_GUI_Server2.exe
+G:\WCF_Peer_Comm\WPF_GUI\bin\Debug\XMLOutput.exe
+G:\WCF_Peer_Comm\WPF_GUI\bin\Debug\FileMgr.exe
+G:\WCF_Peer_Comm\WPF_GUI\bin\Debug\Analyzer.pdb
+G:\WCF_Peer_Comm\WPF_GUI\bin\Debug\Executable.pdb
+G:\WCF_Peer_Comm\WPF_GUI\bin\Debug\Parser.pdb
+G:\WCF_Peer_Comm\WPF_GUI\bin\Debug\WcfService1.pdb
+G:\WCF_Peer_Comm\WPF_GUI\bin\Debug\WCF_Peer_Comm.pdb
+G:\WCF_Peer_Comm\WPF_GUI\bin\Debug\WpfApplication1.pdb
+G:\WCF_Peer_Comm\WPF_GUI\bin\Debug\WPF_GUI_Server2.pdb
+G:\WCF_Peer_Comm\WPF_GUI\bin\Debug\XMLOutput.pdb
+G:\WCF_Peer_Comm\WPF_GUI\bin\Debug\FileMgr.pdb
+G:\WCF_Peer_Comm\WPF_GUI\obj\Debug\WPF_GUI.csprojResolveAssemblyReference.cache
+G:\WCF_Peer_Comm\WPF_GUI\obj\Debug\Window1.baml
+G:\WCF_Peer_Comm\WPF_GUI\obj\Debug\Window1.g.cs
+G:\WCF_Peer_Comm\WPF_GUI\obj\Debug\App.g.cs
+G:\WCF_Peer_Comm\WPF_GUI\obj\Debug\WPF_GUI_MarkupCompile.cache
+G:\WCF_Peer_Comm\WPF_GUI\obj\Debug\WPF_GUI.g.resources
+G:\WCF_Peer_Comm\WPF_GUI\obj\Debug\WPF_GUI.Properties.Resources.resources
+G:\WCF_Peer_Comm\WPF_GUI\obj\Debug\WPF_GUI.csproj.GenerateResource.Cache
+C:\Users\sony\Documents\WCF_Peer_Comm\WPF_GUI\bin\Debug\WPF_GUI.exe.config
+C:\Users\sony\Documents\WCF_Peer_Comm\WPF_GUI\obj\Debug\WPF_GUI.exe
+C:\Users\sony\Documents\WCF_Peer_Comm\WPF_GUI\obj\Debug\WPF_GUI.pdb
+C:\Users\sony\Documents\WCF_Peer_Comm\WPF_GUI\bin\Debug\WPF_GUI.exe
+C:\Users\sony\Documents\WCF_Peer_Comm\WPF_GUI\bin\Debug\WPF_GUI.pdb
+C:\Users\sony\Documents\WCF_Peer_Comm\WPF_GUI\bin\Debug\Analyzer.exe
+C:\Users\sony\Documents\WCF_Peer_Comm\WPF_GUI\bin\Debug\Executable.exe
+C:\Users\sony\Documents\WCF_Peer_Comm\WPF_GUI\bin\Debug\Parser.exe
+C:\Users\sony\Documents\WCF_Peer_Comm\WPF_GUI\bin\Debug\WcfService1.dll
+C:\Users\sony\Documents\WCF_Peer_Comm\WPF_GUI\bin\Debug\WCF_Peer_Comm.dll
+C:\Users\sony\Documents\WCF_Peer_Comm\WPF_GUI\bin\Debug\WpfApplication1.exe
+C:\Users\sony\Documents\WCF_Peer_Comm\WPF_GUI\bin\Debug\WPF_GUI_Server2.exe
+C:\Users\sony\Documents\WCF_Peer_Comm\WPF_GUI\bin\Debug\XMLOutput.exe
+C:\Users\sony\Documents\WCF_Peer_Comm\WPF_GUI\bin\Debug\FileMgr.exe
+C:\Users\sony\Documents\WCF_Peer_Comm\WPF_GUI\bin\Debug\Analyzer.pdb
+C:\Users\sony\Documents\WCF_Peer_Comm\WPF_GUI\bin\Debug\Executable.pdb
+C:\Users\sony\Documents\WCF_Peer_Comm\WPF_GUI\bin\Debug\Parser.pdb
+C:\Users\sony\Documents\WCF_Peer_Comm\WPF_GUI\bin\Debug\WcfService1.pdb
+C:\Users\sony\Documents\WCF_Peer_Comm\WPF_GUI\bin\Debug\WCF_Peer_Comm.pdb
+C:\Users\sony\Documents\WCF_Peer_Comm\WPF_GUI\bin\Debug\WpfApplication1.pdb
+C:\Users\sony\Documents\WCF_Peer_Comm\WPF_GUI\bin\Debug\WPF_GUI_Server2.pdb
+C:\Users\sony\Documents\WCF_Peer_Comm\WPF_GUI\bin\Debug\XMLOutput.pdb
+C:\Users\sony\Documents\WCF_Peer_Comm\WPF_GUI\bin\Debug\FileMgr.pdb
+C:\Users\sony\Documents\WCF_Peer_Comm\WPF_GUI\obj\Debug\WPF_GUI.csprojResolveAssemblyReference.cache
+C:\Users\sony\Documents\WCF_Peer_Comm\WPF_GUI\obj\Debug\Window1.baml
+C:\Users\sony\Documents\WCF_Peer_Comm\WPF_GUI\obj\Debug\Window1.g.cs
+C:\Users\sony\Documents\WCF_Peer_Comm\WPF_GUI\obj\Debug\App.g.cs
+C:\Users\sony\Documents\WCF_Peer_Comm\WPF_GUI\obj\Debug\WPF_GUI_MarkupCompile.cache
+C:\Users\sony\Documents\WCF_Peer_Comm\WPF_GUI\obj\Debug\WPF_GUI.g.resources
+C:\Users\sony\Documents\WCF_Peer_Comm\WPF_GUI\obj\Debug\WPF_GUI.Properties.Resources.resources
+C:\Users\sony\Documents\WCF_Peer_Comm\WPF_GUI\obj\Debug\WPF_GUI.csproj.GenerateResource.Cache
+C:\Users\sony\Downloads\SMA4\WCF_Peer_Comm\WPF_GUI\bin\Debug\WPF_GUI.exe.config
+C:\Users\sony\Downloads\SMA4\WCF_Peer_Comm\WPF_GUI\bin\Debug\WPF_GUI.exe
+C:\Users\sony\Downloads\SMA4\WCF_Peer_Comm\WPF_GUI\bin\Debug\WPF_GUI.pdb
+C:\Users\sony\Downloads\SMA4\WCF_Peer_Comm\WPF_GUI\bin\Debug\Analyzer.exe
+C:\Users\sony\Downloads\SMA4\WCF_Peer_Comm\WPF_GUI\bin\Debug\Executable.exe
+C:\Users\sony\Downloads\SMA4\WCF_Peer_Comm\WPF_GUI\bin\Debug\Parser.exe
+C:\Users\sony\Downloads\SMA4\WCF_Peer_Comm\WPF_GUI\bin\Debug\WcfService1.dll
+C:\Users\sony\Downloads\SMA4\WCF_Peer_Comm\WPF_GUI\bin\Debug\WCF_Peer_Comm.dll
+C:\Users\sony\Downloads\SMA4\WCF_Peer_Comm\WPF_GUI\bin\Debug\WpfApplication1.exe
+C:\Users\sony\Downloads\SMA4\WCF_Peer_Comm\WPF_GUI\bin\Debug\WPF_GUI_Server2.exe
+C:\Users\sony\Downloads\SMA4\WCF_Peer_Comm\WPF_GUI\bin\Debug\XMLOutput.exe
+C:\Users\sony\Downloads\SMA4\WCF_Peer_Comm\WPF_GUI\bin\Debug\FileMgr.exe
+C:\Users\sony\Downloads\SMA4\WCF_Peer_Comm\WPF_GUI\bin\Debug\Analyzer.pdb
+C:\Users\sony\Downloads\SMA4\WCF_Peer_Comm\WPF_GUI\bin\Debug\Executable.pdb
+C:\Users\sony\Downloads\SMA4\WCF_Peer_Comm\WPF_GUI\bin\Debug\Parser.pdb
+C:\Users\sony\Downloads\SMA4\WCF_Peer_Comm\WPF_GUI\bin\Debug\WcfService1.pdb
+C:\Users\sony\Downloads\SMA4\WCF_Peer_Comm\WPF_GUI\bin\Debug\WCF_Peer_Comm.pdb
+C:\Users\sony\Downloads\SMA4\WCF_Peer_Comm\WPF_GUI\bin\Debug\XMLOutput.pdb
+C:\Users\sony\Downloads\SMA4\WCF_Peer_Comm\WPF_GUI\bin\Debug\FileMgr.pdb
+C:\Users\sony\Downloads\SMA4\WCF_Peer_Comm\WPF_GUI\obj\Debug\WPF_GUI.csprojResolveAssemblyReference.cache
+C:\Users\sony\Downloads\SMA4\WCF_Peer_Comm\WPF_GUI\obj\Debug\Window1.baml
+C:\Users\sony\Downloads\SMA4\WCF_Peer_Comm\WPF_GUI\obj\Debug\Window1.g.cs
+C:\Users\sony\Downloads\SMA4\WCF_Peer_Comm\WPF_GUI\obj\Debug\App.g.cs
+C:\Users\sony\Downloads\SMA4\WCF_Peer_Comm\WPF_GUI\obj\Debug\WPF_GUI_MarkupCompile.cache
+C:\Users\sony\Downloads\SMA4\WCF_Peer_Comm\WPF_GUI\obj\Debug\WPF_GUI.g.resources
+C:\Users\sony\Downloads\SMA4\WCF_Peer_Comm\WPF_GUI\obj\Debug\WPF_GUI.Properties.Resources.resources
+C:\Users\sony\Downloads\SMA4\WCF_Peer_Comm\WPF_GUI\obj\Debug\WPF_GUI.csproj.GenerateResource.Cache
+C:\Users\sony\Downloads\SMA4\WCF_Peer_Comm\WPF_GUI\obj\Debug\WPF_GUI.exe
+C:\Users\sony\Downloads\SMA4\WCF_Peer_Comm\WPF_GUI\obj\Debug\WPF_GUI.pdb
+C:\Users\sony\Downloads\SMA4\WCF_Peer_Comm\WPF_GUI\bin\Debug\WpfApplication1.pdb
+C:\Users\sony\Downloads\SMA4\WCF_Peer_Comm\WPF_GUI\bin\Debug\WPF_GUI_Server2.pdb
